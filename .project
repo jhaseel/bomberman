@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>bomberman</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/bomba.png</name>
+			<type>1</type>
+			<location>C:/Users/alan/Desktop/bomba.png</location>
+		</link>
+		<link>
+			<name>src/images/boom.png</name>
+			<type>1</type>
+			<location>C:/Users/alan/Desktop/boom.png</location>
+		</link>
+		<link>
+			<name>src/images/bot1.png</name>
+			<type>1</type>
+			<location>C:/Users/alan/Desktop/bot1.png</location>
+		</link>
+		<link>
+			<name>src/images/img1.jpg</name>
+			<type>1</type>
+			<location>C:/Users/alan/eclipse-workspace/bomberman/src/bomberman/img1.jpg</location>
+		</link>
+		<link>
+			<name>src/images/premio.png</name>
+			<type>1</type>
+			<location>C:/Users/alan/Desktop/premio.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
